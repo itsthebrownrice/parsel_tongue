@@ -1,7 +1,7 @@
 import random
 rnd_num = random.randint(1,100)
 
-print(rnd_num,'Enter any number to guess the computer-generated number.')
+print('Enter any number to guess the computer-generated number.')
 
 num_list = [0]
 count = 0
